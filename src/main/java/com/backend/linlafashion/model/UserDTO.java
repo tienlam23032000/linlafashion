@@ -16,7 +16,6 @@ public class UserDTO {
     }
 
     public UserDTO(){
-
     }
 
     //get set
